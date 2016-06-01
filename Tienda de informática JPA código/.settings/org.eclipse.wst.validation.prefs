@@ -1,0 +1,10 @@
+#Tue Jan 26 22:53:37 CET 2016
+vals/org.eclipse.jpt.core.jpaValidator/global=TF01
+override=true
+USER_MANUAL_PREFERENCE=enabledManualValidatorListcom.ibm.ccl.soa.deploy.internal.core.validator.wst.WstTopologyValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;com.ibm.jee.sdo.jdbc.ui.validators.JDBCMediatorConnectionFileValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;com.ibm.etools.j2ee.migration.classpath.J2EEClasspathValidator;
+suspend=false
+eclipse.preferences.version=1
+vf.version=3
+DELEGATES_PREFERENCE=delegateValidatorList
+USER_PREFERENCE=overrideGlobalPreferencestruedisableAllValidationfalseversion1.2.202.v201103212041
+USER_BUILD_PREFERENCE=enabledBuildValidatorListcom.ibm.ccl.soa.deploy.internal.core.validator.wst.WstTopologyValidator;org.eclipse.jst.j2ee.internal.classpathdep.ClasspathDependencyValidator;com.ibm.jee.sdo.jdbc.ui.validators.JDBCMediatorConnectionFileValidator;org.eclipse.wst.wsi.ui.internal.WSIMessageValidator;com.ibm.etools.j2ee.migration.classpath.J2EEClasspathValidator;
