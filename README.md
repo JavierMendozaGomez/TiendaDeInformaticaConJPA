@@ -1,6 +1,5 @@
 # TiendaDeInformaticaConJPA
 
-1. Introducción a la aplicación
 
 La aplicación emula el funcionamiento de una tienda de informática y consta de tres entidades: Departamento, Tarea y Empleado. Al arrancar la aplicación se muestran tres ventanas, una por entidad, en las cuales el usuario puede asignar tareas a empleados  o el administrador actualizar, añadir o eliminar información.
 
